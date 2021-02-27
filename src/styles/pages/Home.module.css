@@ -2,7 +2,7 @@
   height: 100vh;
   max-width: 992px;
   margin: 0 auto;
-  padding: 1rem 0 2.5rem 2rem;
+  padding: 1rem;
 
   display: flex;
   flex-direction: column;
@@ -10,10 +10,38 @@
 
 .container section {
   flex: 1;
+  padding: 1rem;
 
-  margin-top: 1rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 6.25rem;
   align-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .container section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3.25rem;
+    margin-top: 2rem;
+  }
+}
+
+@media only screen and (max-width: 569px) {
+  .container section {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin-top: 0.5rem;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .container section {
+    display: grid;
+    gap: 2.25rem;
+    padding: 1rem;
+    align-content: center;
+    justify-content: center;
+    margin-top: 0.5rem;
+  }
 }
