@@ -8,8 +8,6 @@
 
 ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue)
 
-![Badge](https://img.shields.io/badge/React-Framework-informational)
-
 ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 
 ### Listas não ordenadas
