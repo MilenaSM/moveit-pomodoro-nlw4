@@ -1,4 +1,6 @@
-<h1 aligin="center"> moveit-pomodoro-nlw4
+<h1 aligin="center"> 
+ 
+ moveit-pomodoro-nlw4
 
 <img src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
 
