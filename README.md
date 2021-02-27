@@ -1,3 +1,5 @@
+<img src="./logo-full.svg" alt="Moveit"/>
+
 # moveit-pomodoro-nlw4
 
 ## Descrição do Projeto
@@ -10,7 +12,7 @@
 
 ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 
-### Listas não ordenadas
+### Implementações
 
 - Responsivo para celulares e tablets.
 - Contexts
@@ -32,7 +34,8 @@
 ## Como rodar a aplicação :runner:
 
 - No terminal, clone o projeto:
-  -git clone https://github.com/MilenaSM/moveit-pomodoro-nlw4
+  
+  '-git clone https://github.com/MilenaSM/moveit-pomodoro-nlw4
 
 - Entre na pasta do projeto:
 
