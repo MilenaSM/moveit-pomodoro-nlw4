@@ -1,4 +1,4 @@
-<img src="./logo-full.svg" alt="Moveit"/>
+<img src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
 
 # moveit-pomodoro-nlw4
 
