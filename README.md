@@ -14,17 +14,14 @@
 
 ![moveit-images](https://user-images.githubusercontent.com/53149634/109433589-f1742f00-79ef-11eb-9477-a09458c8da24.png)
 
-## Descrição do Projeto
 
-<p align="center"> Projeto realizado na semana NLW4, nesse projeto realizei alterações para que a aplicação funcione da melhor forma possível para quem for usá-la.<p />
+## Descrição :page_with_curl:
+App desenvolvido na semana NLW4! O sistema utiliza a técnica pomodoro e serve para quem trabalha com computadores por longas horas, o App dispara um alarme após o período de 25 minutos incentivando o usuário à prática de alongamentos e exercícios para os olhos.
 
-## :page_facing_up: Descrição
-O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
-
-## :art: Layout
+## Layout :art: 
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>.
 
-## 🛠 Tecnologias
+## Tecnologias 🛠 
 O projeto foi desenvolvido com as tecnologias:
 
 - [Next.js](https://nextjs.org/)
@@ -34,7 +31,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 <br />
 
-## :clipboard: Funcionalidades
+## Funcionalidades :clipboard: 
 - [x] Iniciar um ciclo de 25 minutos.
 - [x] Abadornar ciclo.
 - [x] Dispara um efeito sonoro quando o ciclo chega ao fim.
@@ -54,7 +51,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 <br />
 
-## :bulb: Implementações
+## Implementações :bulb: 
 
 - Responsivo para celulares e tablets.
 
