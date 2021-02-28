@@ -1,14 +1,9 @@
-<h1 aligin="center"> moveit-pomodoro-nlw4 </h1>
-
-<br />
-
 <img widith="400px" align="center" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
 
 <br />
 
 <p align="center">
-   <img alt="Linkedin" src="![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)">
-
+ ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
  ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue)
  ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 </p>
