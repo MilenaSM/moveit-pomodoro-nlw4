@@ -4,7 +4,7 @@
  
  ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style=for-the-badge&logo=VERCEL)
  
- ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+ ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style)
  
 </p>
 
