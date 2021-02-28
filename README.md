@@ -12,7 +12,7 @@
 
 <br />
 
-<img src="![moveit-images](https://user-images.githubusercontent.com/53149634/109433589-f1742f00-79ef-11eb-9477-a09458c8da24.png)" />
+![moveit-images](https://user-images.githubusercontent.com/53149634/109433589-f1742f00-79ef-11eb-9477-a09458c8da24.png)
 
 ## Descrição do Projeto
 
@@ -54,7 +54,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 <br />
 
-### Implementações
+### :bulb: Implementações
 
 - Responsivo para celulares e tablets.
 
