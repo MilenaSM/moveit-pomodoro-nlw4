@@ -1,12 +1,10 @@
-<p align="center">
- <img width="400px" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit" />
-</p>
-
-<br />
-
-<p align="center">
+<p align="center"> 
  
- ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT) ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue) ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+ ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT) 
+ 
+ ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style=for-the-badge&logo=VERCEL)
+ 
+ ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
  
 </p>
 
