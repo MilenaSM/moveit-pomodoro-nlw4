@@ -1,15 +1,14 @@
 <h1 align="center">
   <img width="400px" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" />
+
+  <br />
+
+  <p align="center"> 
+   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
+   <img src="https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=green&style=for-the-badge&logo=VERCEL" />
+  </p>
+
 </h1>
-
-<br />
-
-<p align="center"> 
- 
- <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
- ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=green&style=for-the-badge&logo=VERCEL)
-  
-</p>
 
 <br />
 
