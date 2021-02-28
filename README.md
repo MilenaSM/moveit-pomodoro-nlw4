@@ -6,13 +6,7 @@
 
 <p align="center">
  
- <img src="![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)" />
- 
-
- 
- ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue)
- 
- ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
+ ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT) ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue) ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
  
 </p>
 
