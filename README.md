@@ -16,7 +16,7 @@
 
 
 ## Descrição :page_with_curl:
-App desenvolvido na semana NLW4! O sistema utiliza a técnica pomodoro e serve para quem trabalha com computadores por longas horas, o App dispara um alarme após o período de 25 minutos incentivando o usuário à prática de alongamentos e exercícios para os olhos.
+App desenvolvido na semana NLW4! O sistema utiliza a técnica pomodoro e serve para quem trabalha com computadores por longas horas, o alarme dispara após o período de 25 minutos e desafios são apresentados na tela incentivando o usuário à prática de alongamentos e exercícios para os olhos.
 
 ## Layout :art: 
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0">desse link<a>.
