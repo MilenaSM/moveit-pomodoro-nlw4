@@ -54,7 +54,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 <br />
 
-### :bulb: Implementações
+## :bulb: Implementações
 
 - Responsivo para celulares e tablets.
 
