@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="puclic/logo-full.svg" />
+  <img width="400px" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" />
 </h1>
 
 <br />
