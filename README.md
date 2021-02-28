@@ -13,14 +13,15 @@
 <br />
 <br />
 
-> Status do Projeto: Em desenvolvimento :warning:
-
-<br />
-
 ## Telas do App :paperclip:
 
 ![moveit-images](https://user-images.githubusercontent.com/53149634/109433589-f1742f00-79ef-11eb-9477-a09458c8da24.png)
 
+<br />
+
+> Status do Projeto: Em desenvolvimento :warning:
+
+<br />
 
 ## Descrição :page_with_curl:
 App desenvolvido na semana NLW4! O sistema utiliza a técnica pomodoro e serve para quem trabalha com computadores por longas horas, o alarme dispara após o período de 25 minutos e desafios são apresentados na tela incentivando o usuário à prática de alongamentos e exercícios para os olhos.
