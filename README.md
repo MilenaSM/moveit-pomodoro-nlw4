@@ -1,11 +1,8 @@
 <p align="center"> 
  
- ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT) 
- 
- ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style=for-the-badge&logo=VERCEL)
- 
- ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=blue&style)
- 
+ <img source="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
+ ![Badge]() ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=green&style=for-the-badge&logo=VERCEL)
+  
 </p>
 
 <br />
