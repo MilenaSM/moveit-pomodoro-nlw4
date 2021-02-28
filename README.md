@@ -84,18 +84,19 @@ O projeto foi desenvolvido com as tecnologias:
 
 - No terminal, clone o projeto:
   
-  -```git clone https://github.com/MilenaSM/moveit-pomodoro-nlw4```
+  ```git clone https://github.com/MilenaSM/moveit-pomodoro-nlw4```
 
 - Entre na pasta do projeto:
 
-  - ```cd moveit-pomodoro-nlw4```
+  ```cd moveit-pomodoro-nlw4```
 
 - Instale as dependências:
 
-  - ```yarn stall && npm install```
+  ```yarn stall && npm install```
 
 - Execute a aplicação:
-  - ```yarn dev```
+  
+  ```yarn dev```
 
 - Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000.
 
