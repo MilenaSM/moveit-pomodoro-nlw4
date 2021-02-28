@@ -11,7 +11,6 @@
 </h1>
 
 <br />
-<br />
 
 ## Telas do App :paperclip:
 
