@@ -1,7 +1,13 @@
+<h1 align="center">
+  <img width="400px" src="./.github/images/logo.svg" />
+</h1>
+
+<br />
+
 <p align="center"> 
  
- <img source="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
- ![Badge]() ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=green&style=for-the-badge&logo=VERCEL)
+ <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT" />
+ ![Badge](https://img.shields.io/static/v1?label=Vercel&message=Deploy&color=green&style=for-the-badge&logo=VERCEL)
   
 </p>
 
