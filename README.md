@@ -1,17 +1,17 @@
-<h1 aligin="center"> 
- 
- moveit-pomodoro-nlw4
- <br />
-</h1>
+<h1 aligin="center"> moveit-pomodoro-nlw4 </h1>
 
-<img widith="400px" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
+<br />
+
+<img widith="400px" align="center" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
+
 <br />
 
 <p align="center">
- ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+   <a href="![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)"</a>
  ![Badge](https://img.shields.io/badge/Vercel-Deploy-black--blue)
  ![Badge](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
 </p>
+
 <br />
 
 ## Descrição do Projeto
@@ -68,7 +68,11 @@ O projeto foi desenvolvido com as tecnologias:
 
 :eyes: Funcional em computadores, celulares e tablets.
 
+<br />
+
 > Status do Projeto: Em desenvolvimento :warning:
+
+<br />
 
 ## Deploy da Aplicação com Vercel: :punch:
 
@@ -78,22 +82,22 @@ O projeto foi desenvolvido com as tecnologias:
 
 ## Como rodar a aplicação :runner:
 
-# No terminal, clone o projeto:
+- No terminal, clone o projeto:
   
   -```git clone https://github.com/MilenaSM/moveit-pomodoro-nlw4```
 
-# Entre na pasta do projeto:
+- Entre na pasta do projeto:
 
   - ```cd moveit-pomodoro-nlw4```
 
-# Instale as dependências:
+- Instale as dependências:
 
   - ```yarn stall && npm install```
 
-# Execute a aplicação:
+- Execute a aplicação:
   - ```yarn dev```
 
-# Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000.
+- Pronto, agora é possível acessar a aplicação a partir da rota http://localhost:3000.
 
 <br />
 
