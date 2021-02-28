@@ -46,15 +46,6 @@ O projeto foi desenvolvido com as tecnologias:
 - [x] Usuário pode subir de nível.
 
 <br />
- 
- <p align="center">
-  <a href="![tela-para-pc1](https://user-images.githubusercontent.com/53149634/109401306-a9d89f00-792c-11eb-8da7-01ef2b3d898e.png)"Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="![tela-para-pc2](https://user-images.githubusercontent.com/53149634/109401342-e1474b80-792c-11eb-9d3d-03d6861f6352.png)">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="![tela-para-celular1](https://user-images.githubusercontent.com/53149634/109401349-ee643a80-792c-11eb-8227-9c5daa39f774.jpg)">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="![tela-para-celular2](https://user-images.githubusercontent.com/53149634/109401356-f7550c00-792c-11eb-9465-4fa09779e6c3.jpg)">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<br />
 
 ## Implementações :bulb: 
 
