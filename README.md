@@ -11,10 +11,10 @@
 </h1>
 
 <br />
+<br />
 
 > Status do Projeto: Em desenvolvimento :warning:
 
-<br />
 <br />
 
 ## Telas do App :paperclip:
