@@ -1,4 +1,6 @@
-<img widith="400px" align="center" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit"/>
+<p align="center">
+ <img widith="400px" src="https://github.com/MilenaSM/moveit-pomodoro-nlw4/blob/main/public/logo-full.svg" alt="Moveit" />
+</p>
 
 <br />
 
