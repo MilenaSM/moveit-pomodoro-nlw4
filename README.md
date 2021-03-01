@@ -81,7 +81,7 @@ O projeto foi desenvolvido com as tecnologias:
 
 - Instale as dependências:
 
-  ```yarn stall && npm install```
+  ```yarn stall```
 
 - Execute a aplicação:
   
